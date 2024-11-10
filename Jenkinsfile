@@ -23,5 +23,3 @@ pipeline {
         }
     }
 }
-
-### vimal first extension needs to be installed and add add reponsitory and sign in the github
