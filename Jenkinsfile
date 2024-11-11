@@ -25,5 +25,6 @@ pipeline {
             sh '''
             echo "test stage"
             '''
+        }
     }
 }
